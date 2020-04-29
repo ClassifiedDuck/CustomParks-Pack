@@ -7,3 +7,5 @@
 #3 Put the .zip file into the Resource Pack Folder.
 
 #4 Go into minecraft and put it on!
+
+#5 Enjoy our wonderfull servers!
