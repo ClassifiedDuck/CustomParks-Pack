@@ -1,6 +1,6 @@
 # CustomParks-Pack
 
-#1 Download the pack here, [Download CustomParks Pack](https://github.com/ClassifiedDuck/CustomParks-Pack/raw/master/CustomParks%20Pack%201.14.4.zip).
+#1 Download the pack here, [Download CustomParks Pack](https://github.com/Classified-Duck/CustomParks-Pack/raw/master/CustomParks%20Pack%201.14.4.zip).
 
 #2 Open Minecraft Resource Pack folder
 
